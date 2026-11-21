@@ -36,3 +36,10 @@ Within a NUST-funded precision oncology–pathology project, I am investigating 
 | **Neural-network benchmarking** | Implemented **MLP/CNN** classifiers and compared performance across **MNIST, Iris, CIFAR-10, and Fashion-MNIST**. |
 
 *Project descriptions summarize completed research/training work from my academic CV. Public code repositories will be linked as they become available.*
+
+## 🧪 Research & laboratory experience
+
+- **Research Assistant · Precision Oncology & Biomedical AI** — SINES, NUST *(Aug 2026–present)*. Investigating histopathology–clinical integration and prognostic assessment within a NUST-funded breast cancer research project.
+- **Undergraduate Thesis Researcher · Biomedical Nanomaterials** — Kinnaird College for Women *(Sep 2024–Jun 2025)*. Nanocomposite synthesis, characterization, and antioxidant assessment.
+- **Research Intern · Molecular Biology** — Centre of Excellence in Molecular Biology (CEMB), University of the Punjab *(Jun–Aug 2024)*. Western blotting, ELISA, and laboratory data collection.
+- **Laboratory Intern · Biological Assays** — Pakistan Council of Scientific and Industrial Research (PCSIR) *(Jun–Aug 2023)*. Antimicrobial, anti-inflammatory, and toxicological assays.

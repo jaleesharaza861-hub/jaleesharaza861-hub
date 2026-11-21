@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1120 250" width="1120" height="250">
+<title id="title">Proposed multimodal breast cancer research workflow</title>
+<desc id="desc">Two complementary inputs, H and E whole-slide images and clinicopathological data, are prepared separately and brought together for multimodal modelling and research on recurrence-related outcomes and prognostic indices. This is an ongoing research plan, not validated results.</desc>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F9F5FF"/><stop offset="1" stop-color="#EFF9F9"/></linearGradient>
+  <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#9285BE"/></marker>
+</defs>
+<rect x="1" y="1" width="1118" height="248" rx="19" fill="url(#g)" stroke="#DDD6EA"/>
+<g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+  <g><rect x="35" y="24" rx="13" width="280" height="78" fill="#F4DAEB" stroke="#D8A9CA"/>
+  <text x="175" y="55" font-size="19" font-weight="700" fill="#432E52">H&amp;E whole-slide images</text>
+  <text x="175" y="80" font-size="15" fill="#63536F">Feature extraction • MIL</text></g>
+  <g><rect x="35" y="117" rx="13" width="280" height="78" fill="#E0EEEF" stroke="#A9D5D4"/>
+  <text x="175" y="148" font-size="19" font-weight="700" fill="#2F4B56">Clinicopathological data</text>
+  <text x="175" y="173" font-size="15" fill="#4C7078">Patient-level variables</text></g>
+  <g><rect x="475" y="61" rx="15" width="239" height="99" fill="#E9E2FF" stroke="#BEACEC"/>
+  <text x="594" y="98" font-size="20" font-weight="700" fill="#423567">Multimodal AI</text>
+  <text x="594" y="127" font-size="15" fill="#665987">Fusion and evaluation</text></g>
+  <g><rect x="791" y="61" rx="15" width="293" height="99" fill="#DDF3ED" stroke="#9BD4C8"/>
+  <text x="937" y="97" font-size="19" font-weight="700" fill="#27564F">Prognostic research</text>
+  <text x="937" y="126" font-size="15" fill="#47766B">Recurrence-related outcomes • NPI</text></g>
+  <text x="560" y="227" font-size="14" font-weight="600" fill="#766E8E">RESEARCH IN PROGRESS • conceptual workflow, not validated results</text>
+</g>
+<g stroke="#9285BE" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M316 63 H379 V110 H463" marker-end="url(#arrow)"/>
+  <path d="M316 156 H379 V110"/>
+  <path d="M715 110 H778" marker-end="url(#arrow)"/>
+</g>
+<circle cx="379" cy="110" r="5" fill="#9285BE"/>
+</svg>

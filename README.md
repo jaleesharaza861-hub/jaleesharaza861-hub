@@ -55,3 +55,12 @@ Within a NUST-funded precision oncology–pathology project, I am investigating 
 | **Experimental biology** | Western blotting · ELISA · UV–Vis · FTIR · XRD · nanocomposite synthesis · biological activity assays |
 
 My interests span **computational pathology, biomedical AI, machine learning, bioinformatics, genomics, and cancer nanomedicine**.
+
+## 📄 Research manuscript
+
+**“Stimuli Responsive Chitosan-Based Nanohybrids for Targeted Cancer Therapy via Delivery of Bioactive Compounds and Therapeutic Agents”**
+
+*Review manuscript · International Journal of Immunopathology and Pharmacology · Revised submission under consideration (2026).*
+
+**Contribution:** Second-listed author and equal contributor, as designated in the manuscript.  
+**Publication status:** **Under consideration, not yet published**; a publication link will be added only after an official record is available.

@@ -1,17 +1,26 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Syeda Jaleesha Raza Naqvi: Bioinformatics, Biomedical AI and Precision Oncology researcher at NUST" width="100%" />
+</p>
+
+<p align="center">
+  <img alt="MS Bioinformatics NUST" src="https://img.shields.io/badge/MS%20Bioinformatics-NUST-AD8DD9?style=flat-square" />
+  <img alt="Research Assistant" src="https://img.shields.io/badge/Research%20Assistant-SINES-DA8FB8?style=flat-square" />
+  <img alt="Research interest Precision Oncology" src="https://img.shields.io/badge/Focus-Precision%20Oncology-78BBB5?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="#-current-research--breast-cancer--multimodal-ai">Current research</a> •
+  <a href="#-selected-computational-projects">Projects</a> •
+  <a href="#-research-toolkit">Toolkit</a> •
+  <a href="#-academic-journey">Education</a> •
+  <a href="#-lets-connect">Contact</a>
+</p>
+
 # Hello, I'm Jaleesha 🌷
 
 I am **Syeda Jaleesha Raza Naqvi**, an **MS Bioinformatics researcher at SINES, National University of Sciences and Technology (NUST), Islamabad** and a **Research Assistant working at the intersection of precision oncology, computational pathology, and biomedical artificial intelligence**.
 
 My work connects biological questions with computational methods: from histopathology images and clinicopathological records to machine learning, molecular biology, and nanomedicine. I care about research that is **rigorous, interpretable, and clinically meaningful**.
-
-## 🎓 Academic journey
-
-| Period | Degree / institution | Focus |
-| :-- | :-- | :-- |
-| **2025–2027 (expected)** | **MS Bioinformatics** · SINES, NUST, Islamabad | Biomedical AI, multimodal computational pathology, breast cancer risk stratification |
-| **2021–2025** | **BS (Hons.) Biotechnology** · Kinnaird College for Women, Lahore | Experimental biotechnology, biomedical nanomaterials, antioxidant evaluation |
-
-My undergraduate thesis examined **silver-doped ZnO/graphene oxide nanocomposites**, with and without vitamin E loading, using **UV–Vis, FTIR, XRD** and antioxidant assays including **FRAP, CUPRAC, ABTS, and ORAC**.
 
 ## 🔬 Current research | Breast cancer & multimodal AI
 
@@ -25,6 +34,14 @@ Within a NUST-funded precision oncology–pathology project, I am investigating 
 - **Evaluation priorities:** patient-level data separation, comparison with clinical-only and image-only baselines, robust validation, and transparent limitations.
 
 > **Research status:** Data preparation and analysis are ongoing. Model development, comparative evaluation, and external validation are research goals—not completed or published results.
+
+## 🧩 My research approach
+
+<p align="center">
+  <img src="./assets/research-workflow.svg" alt="Proposed research workflow connecting histopathology, clinical data, multimodal AI and prognostic assessment; research in progress" width="100%" />
+</p>
+
+I aim to connect **biological validity**, **careful data preparation**, and **transparent model evaluation**. My current work examines how complementary modalities may improve the *study* of patient outcomes; it does not assume that multimodal models automatically outperform established clinical measures.
 
 ## 🧠 Selected computational projects
 
@@ -64,3 +81,26 @@ My interests span **computational pathology, biomedical AI, machine learning, bi
 
 **Contribution:** Second-listed author and equal contributor, as designated in the manuscript.  
 **Publication status:** **Under consideration, not yet published**; a publication link will be added only after an official record is available.
+
+## 🎓 Academic journey
+
+| Period | Degree / institution | Focus |
+| :-- | :-- | :-- |
+| **2025–2027 (expected)** | **MS Bioinformatics** · SINES, NUST, Islamabad | Biomedical AI, multimodal computational pathology, breast cancer risk stratification |
+| **2021–2025** | **BS (Hons.) Biotechnology** · Kinnaird College for Women, Lahore | Experimental biotechnology, biomedical nanomaterials, antioxidant evaluation |
+
+My undergraduate thesis examined **silver-doped ZnO/graphene oxide nanocomposites**, with and without vitamin E loading, using **UV–Vis, FTIR, XRD** and antioxidant assays including **FRAP, CUPRAC, ABTS, and ORAC**.
+
+## 💌 Let's connect
+
+I welcome thoughtful conversations about **precision oncology, biomedical AI, computational pathology, reproducible bioinformatics, and interdisciplinary research**.
+
+<p align="left">
+  <a href="mailto:jaleesharaza861@gmail.com"><img alt="Email Jaleesha" src="https://img.shields.io/badge/Email-8F629D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/syeda-jaleesha-raza-9442211a6/"><img alt="Jaleesha on LinkedIn" src="https://img.shields.io/badge/LinkedIn-506AA6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://github.com/jaleesharaza861-hub"><img alt="Jaleesha on GitHub" src="https://img.shields.io/badge/GitHub-393450?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><sub>Curiosity in biology. Care in computation. Purpose in research. ✦</sub></p>

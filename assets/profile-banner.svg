@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="title desc" viewBox="0 0 1200 340" width="1200" height="340">
+<title id="title">Syeda Jaleesha Raza Naqvi — Bioinformatics and Biomedical AI</title>
+<desc id="desc">Dark plum and lavender academic research banner with abstract histopathology cells and a molecular motif.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161633"/><stop offset=".5" stop-color="#28234B"/><stop offset="1" stop-color="#394768"/></linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFB7D5"/><stop offset="1" stop-color="#C1A5FF"/></linearGradient>
+  <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A4EEE8"/><stop offset="1" stop-color="#B5B1FF"/></linearGradient>
+  <radialGradient id="cell"><stop offset="0" stop-color="#ECA1D0" stop-opacity=".36"/><stop offset="1" stop-color="#B19DFA" stop-opacity=".05"/></radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="19"/></filter>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1.1" fill="#ADB5E7" opacity=".18"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="26" fill="url(#background)"/>
+<rect width="1200" height="340" rx="26" fill="url(#dots)"/>
+<circle cx="990" cy="147" r="154" fill="#EC8AC2" opacity=".18" filter="url(#glow)"/>
+<circle cx="1139" cy="300" r="118" fill="#A1EAE6" opacity=".16" filter="url(#glow)"/>
+<g opacity=".35" stroke="#D3BBFF" fill="none" stroke-width="2.5">
+  <path d="M895 25 C1050 87, 975 184, 1125 260"/>
+  <path d="M1125 25 C980 87, 1075 184, 925 260"/>
+  <path d="M949 49L1080 49M966 83L1060 83M983 117L1041 117M986 153L1040 153M973 188L1056 188M946 225L1086 225"/>
+</g>
+<g transform="translate(1051 187)">
+  <circle r="94" fill="url(#cell)" stroke="#E9C7FE" stroke-width="1.6" stroke-opacity=".7"/>
+  <circle r="57" fill="none" stroke="#E5BAEE" stroke-width="1.5" stroke-dasharray="4 8" opacity=".8"/>
+  <circle r="26" fill="#D99DDC" opacity=".6"/>
+  <circle r="10" fill="#FFF3FF" opacity=".52"/>
+  <g fill="#99E8DF" opacity=".9"><circle cx="-62" cy="5" r="7"/><circle cx="65" cy="-21" r="9"/><circle cx="-15" cy="-73" r="6"/><circle cx="33" cy="72" r="7"/></g>
+  <g fill="#F5B7D9" opacity=".72"><circle cx="-42" cy="-49" r="9"/><circle cx="72" cy="37" r="6"/><circle cx="-51" cy="52" r="5"/></g>
+</g>
+<g font-family="Segoe UI, Inter, Arial, sans-serif">
+  <text x="64" y="61" fill="#A7E4E3" font-size="18" font-weight="700" letter-spacing="4">RESEARCH  ×  DISCOVERY  ×  IMPACT</text>
+  <text x="60" y="143" fill="url(#pink)" font-size="54" font-weight="800" letter-spacing="1">Syeda Jaleesha</text>
+  <text x="60" y="209" fill="#FFFFFF" font-size="54" font-weight="800" letter-spacing="1">Raza Naqvi</text>
+  <rect x="62" y="232" width="515" height="2" fill="url(#aqua)" opacity=".6"/>
+  <text x="63" y="270" fill="#E0E1FB" font-size="22" font-weight="500">Bioinformatics  •  Biomedical AI  •  Precision Oncology</text>
+  <text x="63" y="305" fill="#AAB8D9" font-size="16">SINES · National University of Sciences and Technology</text>
+</g>
+</svg>

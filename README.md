@@ -12,3 +12,16 @@ My work connects biological questions with computational methods: from histopath
 | **2021–2025** | **BS (Hons.) Biotechnology** · Kinnaird College for Women, Lahore | Experimental biotechnology, biomedical nanomaterials, antioxidant evaluation |
 
 My undergraduate thesis examined **silver-doped ZnO/graphene oxide nanocomposites**, with and without vitamin E loading, using **UV–Vis, FTIR, XRD** and antioxidant assays including **FRAP, CUPRAC, ABTS, and ORAC**.
+
+## 🔬 Current research | Breast cancer & multimodal AI
+
+**MS thesis:** *AI-Guided Recurrence Risk Stratification in Breast Cancer Using H&E Histopathology and Clinicopathological Data*  
+**Supervisor:** Prof. Dr. Ishrat Jabeen · **Status:** Ongoing (MS expected 2027)
+
+Within a NUST-funded precision oncology–pathology project, I am investigating how routine H&E histopathology and clinicopathological information can be brought together for **breast cancer recurrence-risk stratification**.
+
+- **Scientific focus:** recurrence-related outcomes and established prognostic measures, including the **Nottingham Prognostic Index (NPI)**.
+- **Computational direction:** whole-slide image features, attention-based multiple-instance learning, clinical-variable modelling, and multimodal integration.
+- **Evaluation priorities:** patient-level data separation, comparison with clinical-only and image-only baselines, robust validation, and transparent limitations.
+
+> **Research status:** Data preparation and analysis are ongoing. Model development, comparative evaluation, and external validation are research goals—not completed or published results.

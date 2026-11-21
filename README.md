@@ -25,3 +25,14 @@ Within a NUST-funded precision oncology–pathology project, I am investigating 
 - **Evaluation priorities:** patient-level data separation, comparison with clinical-only and image-only baselines, robust validation, and transparent limitations.
 
 > **Research status:** Data preparation and analysis are ongoing. Model development, comparative evaluation, and external validation are research goals—not completed or published results.
+
+## 🧠 Selected computational projects
+
+| Project | What I worked on |
+| :-- | :-- |
+| **Domain-specific GPT-2 pretraining from scratch** | Prepared **5M+ text tokens** from Australian government and educational sources; trained **GPT-2 Small (124M parameters)** without pretrained weights; implemented tokenization, checkpoints, GPU-conscious batching, and training-loss/perplexity tracking. |
+| **CNN vs LSTM vs Transformer** | Trained and compared autoregressive language models for next-word prediction using **PyTorch, SentencePiece, and OpenWebText**, with validation perplexity as a comparison measure. |
+| **Clinical cardiovascular risk modelling** | Explored clinical and behavioral factors in people with diabetes using **simple and multiple linear regression**. |
+| **Neural-network benchmarking** | Implemented **MLP/CNN** classifiers and compared performance across **MNIST, Iris, CIFAR-10, and Fashion-MNIST**. |
+
+*Project descriptions summarize completed research/training work from my academic CV. Public code repositories will be linked as they become available.*

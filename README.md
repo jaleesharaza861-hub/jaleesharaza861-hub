@@ -16,7 +16,12 @@
   <a href="#-lets-connect">Contact</a>
 </p>
 
-# Hello, I'm Jaleesha 🌷
+# Syeda Jaleesha Raza Naqvi
+
+**MS Bioinformatics Researcher & Research Assistant at NUST**  
+*Biomedical AI · Computational Pathology · Precision Oncology*
+
+Hello, I'm Jaleesha! 🌷
 
 I am **Syeda Jaleesha Raza Naqvi**, an **MS Bioinformatics researcher at SINES, National University of Sciences and Technology (NUST), Islamabad** and a **Research Assistant working at the intersection of precision oncology, computational pathology, and biomedical artificial intelligence**.
 
